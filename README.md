@@ -27,7 +27,7 @@ My core strength is designing clean, scalable systems and gradually evolving the
 
 **Frontend**
 
-* HTML, CSS, JavaScript
+* HTML, CSS, Tailwind, JavaScript
 * React, Next.js, TanStack Start
 * Typescript
 
