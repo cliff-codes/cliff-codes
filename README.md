@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Simple Codes
 
-## 🚀 Who are you?
+## 🚀 Who am I?
 
 I'm a **full‑stack software developer** with a strong backend focus. I enjoy building real‑world, production‑ready systems that solve practical problems, especially within emerging markets like Ghana.
 
